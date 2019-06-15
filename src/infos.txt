@@ -1,0 +1,6 @@
+le fichier tsconfig , sert à configurer notre TypeScript.(compilation etc..)
+le fichier bs-config , sert à configurer le petit serveur de test.
+package.json sert à configurer les dépendences.
+Systemjs , est une librairie choisie par Angular , pour tout ce qui est import .
+Main.js qui permet de charger les fichiers de modules.
+index.html point d'entrée.
